@@ -1,0 +1,161 @@
+#base{
+    color:rgb(0, 0, 0);
+    background-color:rgb(0, 0, 0);
+    width: 1150px;
+    height:400px;
+    float:center;
+}
+/*---------------*/
+.basetecla{
+    width: 130px;
+    height: 300px;
+    background-color: rgb(0, 0, 0);  
+    float: left;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+/*---------------*/
+.do {
+    width: 130px;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    transition: width 1ms;
+    transition: margin 1ms;   
+    float: left;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 0px;
+}
+.do:hover {  
+    width: 120px;
+    margin-left: 0px;
+    margin-right: 15px;
+    margin-top: 5px;
+}
+/*---------------*/
+.re { 
+    width: 130px;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    transition: width 1ms;
+    transition: margin 1ms;   
+    float: left;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 0px;
+}
+.re:hover {  
+    width: 120px;
+    margin-left: 0px;
+    margin-right: 15px;
+    margin-top: 5px;
+}
+/*---------------*/
+.mi { 
+    width: 130px;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    transition: width 1ms;
+    transition: margin 1ms;   
+    float: left;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 0px;
+}
+.mi:hover {  
+    width: 120px;
+    margin-left: 0px;
+    margin-right: 15px;
+    margin-top: 5px;
+}
+/*---------------*/
+.fa { 
+    width: 130px;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    transition: width 1ms;
+    transition: margin 1ms;   
+    float: left;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 0px;
+}
+.fa:hover {  
+    width: 120px;
+    margin-left: 0px;
+    margin-right: 15px;
+    margin-top: 5px;
+}
+/*---------------*/
+.so { 
+    width: 130px;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    transition: width 1ms;
+    transition: margin 1ms;   
+    float: left;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 0px;
+}
+.so:hover {  
+    width: 120px;
+    margin-left: 0px;
+    margin-right: 15px;
+    margin-top: 5px;
+}
+/*---------------*/
+.la { 
+    width: 130px;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    transition: width 1ms;
+    transition: margin 1ms;   
+    float: left;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 0px;
+}
+.la:hover {  
+    width: 120px;
+    margin-left: 0px;
+    margin-right: 15px;
+    margin-top: 5px;
+}
+/*---------------*/
+.ci { 
+    width: 130px;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    transition: width 1ms;
+    transition: margin 1ms;   
+    float: left;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 0px;
+}
+.ci:hover {  
+    width: 120px;
+    margin-left: 0px;
+    margin-right: 15px;
+    margin-top: 5px;
+}
+/*---------------*/
+.du { 
+    width: 130px;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    transition: width 1ms;
+    transition: margin 1ms;   
+    float: left;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 0px;
+}
+.du:hover {  
+    width: 120px;
+    margin-left: 0px;
+    margin-right: 15px;
+    margin-top: 5px;
+}
