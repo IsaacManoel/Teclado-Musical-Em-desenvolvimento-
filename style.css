@@ -8,11 +8,23 @@
     float:center;
 }
 /*---------------*/
+body {
+  background: linear-gradient(135deg, #1a1a1a, #333);
+  color: white;
+}
+/*---------------*/
 .cabecalho {
-    background-color: #000000;
-    color: #ffffff;
-    font-family: Bell MT;
-    font-size: 70px;
+    background: linear-gradient(to right, #111, #444);    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-shadow: 
+        0 0 5px rgb(196, 67, 185),
+        0 0 10px rgb(196, 67, 185),
+        0 0 20px rgb(196, 67, 185),
+        0 0 40px rgb(196, 67, 185),
+        0 0 80px rgb(196, 67, 185);
     margin-top: 0px;
     margin-left: 0px;
     margin-bottom: 10px;
@@ -196,6 +208,12 @@
     font-family: Blackadder ITC;
     font-size: 97px;
     color: #ffffff;
+    text-shadow: 
+        0 0 5px rgb(196, 67, 185),
+        0 0 10px rgb(196, 67, 185),
+        0 0 20px rgb(196, 67, 185),
+        0 0 40px rgb(196, 67, 185),
+        0 0 80px rgb(196, 67, 185);
     width: 1100px;
     height: 80px;
     float: left;
